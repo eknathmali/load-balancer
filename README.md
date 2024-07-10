@@ -71,7 +71,7 @@ python3 app1.py
 ```
 In another terminal:
 ```bash
-python3 appw.py
+python3 app2.py
 ```
 
 ### Step4: Access the Load Balanced Application
